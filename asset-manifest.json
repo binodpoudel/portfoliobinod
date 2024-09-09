@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfoliobinod/static/css/main.c58c2899.css",
-    "main.js": "/portfoliobinod/static/js/main.780b1346.js",
+    "main.js": "/portfoliobinod/static/js/main.117eca3e.js",
     "static/media/travel.png": "/portfoliobinod/static/media/travel.85b245efbb92e29ba562.png",
     "static/media/online2.png": "/portfoliobinod/static/media/online2.0359cf75c0064f615185.png",
     "static/media/pizza.png": "/portfoliobinod/static/media/pizza.86e0191dd1d5892e78f4.png",
     "static/media/p2.png": "/portfoliobinod/static/media/p2.c895a516a6d970d792ad.png",
+    "static/media/binod-resume.pdf": "/portfoliobinod/static/media/binod-resume.0a6b9feba68be6d7b53b.pdf",
     "static/media/online12.png": "/portfoliobinod/static/media/online12.5fc8829340540019641b.png",
     "static/media/E-commerce.png": "/portfoliobinod/static/media/E-commerce.74c557ecd4aedf809e12.png",
     "static/media/glassesimoji.png": "/portfoliobinod/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/binod-resume.pdf": "/portfoliobinod/static/media/binod-resume.1f76836868a59e6a5dfd.pdf",
     "static/media/3.jpg": "/portfoliobinod/static/media/3.0e1d68119dafa2a9f66d.jpg",
     "static/media/thumbup.png": "/portfoliobinod/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/portfoliobinod/static/media/humble.c8b32b53675e68978981.png",
@@ -19,10 +19,10 @@
     "static/media/glasses.png": "/portfoliobinod/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/portfoliobinod/index.html",
     "main.c58c2899.css.map": "/portfoliobinod/static/css/main.c58c2899.css.map",
-    "main.780b1346.js.map": "/portfoliobinod/static/js/main.780b1346.js.map"
+    "main.117eca3e.js.map": "/portfoliobinod/static/js/main.117eca3e.js.map"
   },
   "entrypoints": [
     "static/css/main.c58c2899.css",
-    "static/js/main.780b1346.js"
+    "static/js/main.117eca3e.js"
   ]
 }
